@@ -29,7 +29,7 @@ Passphoria is a lightweight program, so you should be able to get up and running
 3. Open up main.cpp in Code Blocks (highly recommended) or a similar IDE
 4. Download soundtrack.wav from https://drive.google.com/file/d/1bmiQ6yLXtS1S51WGOGgZgDIjRkFyr2CT/view?usp=sharing or use your own music. Note that it must be a WAV file and named soundtrack.wav
 5. Save audio file in the same directory as main.cpp
-6. In order for the music to play, go to Settings → Compiler... → Linker settings -> Other linker options -> -lwinmm -> OK
+6. In order for the music to play, go to Settings → Compiler... → Linker settings → Other linker options → -lwinmm → OK
 7. Build and run
 
 ## What is your data policy? How do I know you're not storing my passphrases and using them for malicious purposes?
