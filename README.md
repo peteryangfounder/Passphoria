@@ -37,3 +37,11 @@ None of the passphrases we generate are stored in a database. Thus, as soon as y
 
 ## Figma Mockups
 Figma is a tool for designing and prototyping applicatons before they are coded. It was used to create mockups for Passphoria to streamline the development workflow. Check out the mockups here: https://www.figma.com/file/3mxGWYGiT8WY2MRms6F2pU/Passphoria-Mockups?node-id=0%3A1.
+
+## Video Walkthrough
+Here is a video specially made to walk you through Passphoria. It serves 3 objectives:
+1. Demonstrate how to set up Passphoria on your local computer
+2. What the program actually looks like
+3. Showcase of Figma mockups
+
+Link: https://www.loom.com/share/24caa522504f4af08962540f24b689af
