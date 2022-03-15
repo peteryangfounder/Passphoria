@@ -44,4 +44,4 @@ Here is a video specially made to walk you through Passphoria. It serves 3 objec
 2. What the program actually looks like
 3. Showcase of Figma mockups
 
-Link: https://www.loom.com/share/24caa522504f4af08962540f24b689af
+https://user-images.githubusercontent.com/52507573/158310964-1a3605d5-3ae0-4a20-a078-9fea1374490c.mp4
