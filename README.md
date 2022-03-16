@@ -27,7 +27,7 @@ Passphoria is a lightweight program, so you should be able to get up and running
 1. Make sure you are using Windows OS, as Passphoria uses Windows-specific dependencies
 2. Download the ZIP Passphoria-main.zip and save the inner Passphoria-main folder on your computer. It is critical that the names of the text files are preserved
 3. Open up main.cpp in Code Blocks (highly recommended) or a similar IDE
-4. Download soundtrack.wav from https://drive.google.com/file/d/1bmiQ6yLXtS1S51WGOGgZgDIjRkFyr2CT/view?usp=sharing or use your own music. Note that it must be a WAV file and named soundtrack.wav
+4. Download soundtrack.wav from https://drive.google.com/file/d/10VE6oLD11TFzalsQyA7fxTCyIjE2Hfow/view?usp=sharing or use your own music. Note that it must be a WAV file and named soundtrack.wav
 5. Save audio file in the same directory as main.cpp
 6. In order for the music to play, go to Settings → Compiler... → Linker settings → Other linker options → -lwinmm → OK
 7. Build and run
